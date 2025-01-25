@@ -1,6 +1,6 @@
-# myapp
+# App - Planetas
 
-A new Flutter project.
+Atividade avaliativa da disciplina 12 de Desenvolvimento de Aplicativos Móveis - Talento Tech/PR.
 
 ## Getting Started
 
